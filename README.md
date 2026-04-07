@@ -1,6 +1,6 @@
 # Calculator
 
-A command-line calculator built in Java.
+A command-line Calculator built in Java.
 
 ## Features
 - Add, subtract, multiply, divide
